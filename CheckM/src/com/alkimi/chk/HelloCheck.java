@@ -13,7 +13,7 @@ public class HelloCheck {
 		
 		System.out.println("X3 Check");
 		
-		System.out.println("X4 Check");
+		System.out.println("X4 Check more");
 
 	}
 
