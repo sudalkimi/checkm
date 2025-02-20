@@ -6,6 +6,8 @@ public class HelloCheck {
 		System.out.println("Java Check");
 
 		System.out.println("Add Check");
+		
+		System.out.println("NB Check");
 	}
 
 }
