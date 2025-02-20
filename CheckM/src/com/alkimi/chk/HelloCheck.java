@@ -10,6 +10,8 @@ public class HelloCheck {
 		System.out.println("NB Check");
 
 		System.out.println("Main Check");
+		
+		System.out.println("X3 Check");
 
 	}
 
